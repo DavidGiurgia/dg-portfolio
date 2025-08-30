@@ -195,7 +195,7 @@ const Portfolio = () => {
       ],
       tech: ["Next.js", "TailwindCSS", "Node.js", "OpenAI API"],
       sourceUrl: "https://github.com/DavidGiurgia/colddm-app",
-      websiteUrl: "https://colddm-eight.vercel.app/",
+      websiteUrl: "https://colddm-ai.vercel.app/",
       color: "from-purple-500 to-pink-500",
     },
   ];
